@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "name": "2.-express-2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "Server started"
+  },
+  "author": "nk",
+  "license": "ISC",
+  "description": "This is related to routes"
+}
